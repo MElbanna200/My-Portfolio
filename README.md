@@ -20,13 +20,13 @@
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
+### General info
 
 > A short description
 
 ## Screenshots
 
-![Example screenshot](/planning/Portfolio.png)
+![Example screenshot](/planning/portfolio.png)
 
 ## Technologies
 
