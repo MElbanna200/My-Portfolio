@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![Example screenshot](/planning/Portfolio.png)
+![Example screenshot](./public/portfolio.png)
 
 ## Technologies
 

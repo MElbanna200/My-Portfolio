@@ -2,4 +2,4 @@
 
 ## Project's design overview
 
-![home-page](/planning/Diesgn.png)
+![home-page](../public/diesgn.png)
