@@ -4,18 +4,17 @@
 
 ## Continue Doing
 
+- Try to apply the best opinion for each project
+
 ## Start Doing
+
+- Plan for everything about our project before start
 
 ## Lessons Learned
 
----
-
-## Strategy vs. Board
+- Is very important the organization before start a project
+- How worked under stress
 
 ### What parts of your plan went as expected?
 
-### What parts of your plan did not work out?
-
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
+- A lot of mistakes happened

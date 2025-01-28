@@ -20,7 +20,7 @@
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
+### General info
 
 > A short description
 
