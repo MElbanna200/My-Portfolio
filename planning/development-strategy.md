@@ -1,55 +1,103 @@
 # Project Name
 
-<!-- describe your project -->
-
----
+Web Developer Portfolio Website
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- HTML, CSS, and JavaScript files for the format.
+- VS Code.
+- Web browser to view the website.
+
+## Git Setup
+
+- Create repository from the template
+- Add collaborators
+- Add Rules to the main branch
+- Create project board
+- Create an issue
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## Home Page
 
-## user story
+### Navigation
 
-<!-- each issue created from this section will have the `for: user story` label -->
+HTML
 
-> "as a ... i can ... so that ..."
+- Add body tag
+- Add a `div` tag with class `nav`
+- Add a `UL` for `nav`
+- Add `<a>` for all `nav`
 
-<!-- write any extra notes or description -->
+CSS
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- Style `nav`
+- Add overflow with hidden
+- Add width with 700px
+- Add margin with auto
 
-### Logic: user story
+- style `nav a`
+- Add `float` with `left`
+- Add `color` with `black`
+- Add `text-align` with `center`
+- Add `padding` with `14px` and `16px`
+- Add `text-decoration` with `none`
+- Add `font-size` with `20px`
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Main
 
-### Interface: user story
+HTML
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Add `div` with class `my-info`
+- Add `h2` for my named
+- Add `div` with class `logo-img`
+- Add `img`
+- Add `div` with class `about-me`
+- Add `<p>` for small text about me
 
-### Interaction: user story
+CSS
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- style `logo-img`
+- Add `width` with`auto`
+- Add `height` with `auto`
+- Add `text-align` with `center`
+- Add `margin-top` with `-50px`
 
-### Documentation: user story
+- style `logo-img img`
+- Add `display` with `inline-block`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- style `My-info`
+- Add `display` with `flex`
+- Add `flex-direction` with `column`
+- Add `align-items` with `center`
+- Add `justify-content` with `center`
+- Add `text-align` with `center`
+- Add `margin-bottom` with `100px`
+- Add `padding-top` with `30px`
+
+- style `about-me`
+- Add `display` with `flex`
+- Add `flex-direction` with `column`
+- Add `text-align` with `center`
+- Add `align-items` with `center`
+- Add `margin-top` with `50px`
+- Add `padding` with `50px 0`
+
+- style `but-sub`
+- Add `display` with `flex`
+- Add`flex-direction` with `column`
+- Add `align-items` with `center`
+- Add `justify-content` with `enter`
+- Add `text-align` with `center`
+- Add `margin-bottom` with `100px`
+- Add `padding-top` with `30px`
+
+- style `body`
+- Add `background-image` include `url("/planning/Background.jpg")`
+- Add `background-size` with `cover`
+- Add `background-repeat` with `no-repeat`
+- Add `background-attachment` with `fixed`
+- Add `background-position` with `center`
+- Add `font-family`
+- `font-weight` with `400`
+- Add `font-style` with `normal`

@@ -1,10 +1,10 @@
-# Name of project
+# Portfolio
 
-> A longer description
+> Project for Hack Your Future
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Portfolio](#portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -26,25 +26,49 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](/planning/Portfolio.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- CSS
+- HTML
 
 ## Setup
 
-- `npm run start`
+- git clone <https://github.com/MElbanna200/My-Portfolio.git>
+- npm install
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<div class="nav">
+  <nav>
+    <div>
+      <ul>
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>Home</b></a
+        >
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>About</b></a
+        >
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>Service</b></a
+        >
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>Portfolio</b></a
+        >
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>Resume</b></a
+        >
+        <a href="" style="text-decoration: none; color: #0c0c0c80;"
+          ><b>Contact</b></a
+        >
+      </ul>
+    </div>
+  </nav>
+</div>
 ```
 
 ## Features
@@ -70,7 +94,7 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [Melbana](https://github.com/MElbanna200/MElbanna200.git)
 
 ## Instructions for use
 
